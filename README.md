@@ -1,6 +1,6 @@
 # Stateful Java Web App
 
-This Java Web app is a STATEFUL Java Web application.
+This Java Web app is a STATEFUL Java Web app.
 
 ## Requirements
 
